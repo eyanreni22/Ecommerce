@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import './CSS/shopcategory.css'
+import './CSS/ShopCategory.css'
 import { ShopContext } from '../Context/ShopContext'
 import dropdown_icon from '../Components/Assets/dropdown_icon.jpeg'
 import Item from '../Components/Item/Item'
